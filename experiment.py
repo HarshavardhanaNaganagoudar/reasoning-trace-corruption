@@ -169,7 +169,7 @@ def main():
     starting_run_number = get_next_run_number()
 
     # Keep your chosen scenario here.
-    scenario = SCENARIOS[10]
+    scenario = SCENARIOS[2]
 
     for i in range(RUNS):
         run_number = starting_run_number + i
